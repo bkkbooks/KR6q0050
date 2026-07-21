@@ -21,14 +21,14 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0050_000.yaml, hash: 'sha256:ead8cbec887100ac24fe5ba47ca443285192b5b5b82ef60fd11abc49f36d7058'}
+  - {seq: 0, filename: KR6q0050_000.yaml, hash: 'sha256:38d424b61535437b17e974243231541c61f172d966c31938033090c7478e71cb'}
   - {seq: 1, filename: KR6q0050_001.yaml, hash: 'sha256:c173b778ebd7ab03e1174e2ab68631febb4462f1c8a0e694a1deb65eacdbe664'}
   - {seq: 2, filename: KR6q0050_002.yaml, hash: 'sha256:c8904db9510989f96fa127a1c9b180cb1ad643e1a42114f9cbeacf38da150332'}
   - {seq: 3, filename: KR6q0050_003.yaml, hash: 'sha256:bcff49ac60ff22888f0afea2304fcecd646b34d1f334d0cb66b3f6117ca66ec0'}
   - {seq: 4, filename: KR6q0050_004.yaml, hash: 'sha256:45092bec3620e4a5d327112ee960ce9ba26ed20aa836dd605ba38c44ff6b96e5'}
   - {seq: 5, filename: KR6q0050_005.yaml, hash: 'sha256:f8fc1512eaba6677c0ca62ac3f660f31d5b9077efb511080697d9117847d0de4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0050_000.markers.yaml, hash: 'sha256:2cc4a4c79c90104665594b1bbb453b1a82fafce0db371e37e6297890153797a7'}
+  - {seq: 0, role: markers, filename: assets/KR6q0050_000.markers.yaml, hash: 'sha256:d3a3cef0e230798bb349eec49d4adda7645fa969fb1b743bf7fea54e4a7a46b5'}
   - {seq: 1, role: markers, filename: assets/KR6q0050_001.markers.yaml, hash: 'sha256:b04476466544da19f77ba912faa18ab6d2f681adfb3b077f62b374b661efb502'}
   - {seq: 2, role: markers, filename: assets/KR6q0050_002.markers.yaml, hash: 'sha256:bb783a497b74fe99683cd93e87671c618337118812bf05d470c724eb6297213f'}
   - {seq: 3, role: markers, filename: assets/KR6q0050_003.markers.yaml, hash: 'sha256:ad6d1583f9273c9225b9ffe35a5b7eb6bc2d3629edc5bf281c4b797dde15ad99'}
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0050_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 先覺宗乘
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0050_X_000-mulu-2
     span:
-    - front
+    - body
     - 4
     - 4
   label: 先覺宗乘目錄
@@ -1965,7 +1965,7 @@ table_of_contents:
   label: 官人問無揀僧
   type: mulu
   level: 1
-hash: sha256:8161c9bb14753dd2372904a75a2179f05732fbbaab464da81b9fb701b96c5241
+hash: sha256:25b775766256494fa5a5dd515f1f1361f1b54749d68eb5ca8f8c8aa41fb4b6b6
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

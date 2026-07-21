@@ -19,14 +19,14 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0050_000-X.yaml, hash: 'sha256:aa19019cef54813d0ba4100b15781ef6cefb36a1cd1a32a78db0dd19dc8fba49'}
+  - {seq: 0, filename: KR6q0050_000-X.yaml, hash: 'sha256:2587052c90fe9e1c63712ac5082999376507ea5f9e5f43d2d644fe22310b9092'}
   - {seq: 1, filename: KR6q0050_001-X.yaml, hash: 'sha256:552bf86b8648d87604610ea86000997276bd809fa14384fa271cd097ca05a0b7'}
   - {seq: 2, filename: KR6q0050_002-X.yaml, hash: 'sha256:302363d401ced739cdd6199a7c6dfebde0fef4050022ed049a7cfbde0cf5dfa1'}
   - {seq: 3, filename: KR6q0050_003-X.yaml, hash: 'sha256:632da849442b17b19a29f0974f76b83551676e0f768a1513b833bfdf7e626bff'}
   - {seq: 4, filename: KR6q0050_004-X.yaml, hash: 'sha256:728c5ac1b75639467faf0564e99dfa8b00d7e6bea48bf6dfc6fa905dabb4be3a'}
   - {seq: 5, filename: KR6q0050_005-X.yaml, hash: 'sha256:e6d25b0d66ade6052eabf948d4988ad4c7d779d4c1822b495a447902ec17367d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0050_000-X.markers.yaml, hash: 'sha256:d69ec059b499e6c0cab1b8c16e2f7229c64522144471a6344a4b18d3a476c554'}
+  - {seq: 0, role: markers, filename: assets/KR6q0050_000-X.markers.yaml, hash: 'sha256:0317e999ff39289b2619d1b255ec7dfbbdce28c4ff9baa299767ae7e1adf337b'}
   - {seq: 1, role: markers, filename: assets/KR6q0050_001-X.markers.yaml, hash: 'sha256:7d8d45ee20e54380f11c9f3e6cc695ebb9f9bfba9cf4a4947be96edb844faff9'}
   - {seq: 2, role: markers, filename: assets/KR6q0050_002-X.markers.yaml, hash: 'sha256:04c850b903271132926a3cae9f7be2fcf06f62e947274fcf6040d41f64dbdf2e'}
   - {seq: 3, role: markers, filename: assets/KR6q0050_003-X.markers.yaml, hash: 'sha256:d27e125c413d06f099e848c7942072ffb2807c1fcbdbf5b74b6dac6f36283ab6'}
@@ -37,7 +37,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0050_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 先覺宗乘
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0050_X_000-mulu-2
     span:
-    - front
+    - body
     - 4
     - 4
   label: 先覺宗乘目錄
@@ -1963,4 +1963,4 @@ table_of_contents:
   label: 官人問無揀僧
   type: mulu
   level: 1
-hash: sha256:89cdb27c5f4629a17e36c735aaa66aa0f01c0f9909651f6931d20e8e66d21637
+hash: sha256:b754f7de3ab8903800d61d36a120ed186e7cf82032b4ac8ba14bf1dee3922ef3
